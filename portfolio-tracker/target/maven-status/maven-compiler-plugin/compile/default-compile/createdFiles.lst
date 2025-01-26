@@ -1,0 +1,6 @@
+com\example\portfolio_tracker\repository\StockRepository.class
+com\example\portfolio_tracker\config\AppConfig.class
+com\example\portfolio_tracker\controller\StockController.class
+com\example\portfolio_tracker\entity\Stock.class
+com\example\portfolio_tracker\service\StockService.class
+com\example\portfolio_tracker\PortfolioTrackerApplication.class
